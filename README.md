@@ -10,6 +10,7 @@ This Project includes :
   description, deadline.
 - The user can edit and delete existing tasks.
 - Tasks are sorted according to their deadline
+- User can experience this app in darkmode as well
 
 
 
